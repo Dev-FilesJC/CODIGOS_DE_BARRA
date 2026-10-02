@@ -1,8 +1,0 @@
-streamlit>=1.40,<2
-qrcode[pil]>=7.4
-reportlab>=4.0
-pandas>=2.0
-openpyxl>=3.1
-Pillow>=10.0
-python-barcode>=0.15.1
-rlPyCairo>=0.4.0
